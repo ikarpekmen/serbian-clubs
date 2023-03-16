@@ -27,3 +27,13 @@ h1{
 .list-nav li a{
     text-decoration: none;
 }
+.information{
+    text-align: center;
+    width: 950px;
+    margin: auto;
+    background: lightgrey;
+    padding: 25px;
+}
+.information h3{
+    margin-bottom: 10px;
+}
