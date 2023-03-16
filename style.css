@@ -1,39 +1,41 @@
-*{
+* {
     margin: 0;
     box-sizing: border-box;
 }
 
-h1{
+h1 {
   text-align: center;
   margin-bottom: 50px;
 }
-.container{
+
+.container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 20px;
-    
+    margin: 20px;  
 }
 
-
-.list-nav{
+.list-nav {
     display: flex;
-    justify-content: space-between;
     list-style: none;
 }
-.list-nav li{
-    margin: 0 0 0 100px;
+
+.list-nav li {
+    margin-left: 100px;
 }
-.list-nav li a{
+
+.list-nav li a {
     text-decoration: none;
 }
-.information{
+
+.information {
     text-align: center;
     width: 950px;
     margin: auto;
     background: lightgrey;
     padding: 25px;
 }
-.information h3{
+
+.information h3 {
     margin-bottom: 10px;
 }
