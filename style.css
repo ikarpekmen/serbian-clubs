@@ -46,3 +46,7 @@ text-align: center;
 .left h3 {
 text-align: center;
 }
+
+.table {
+    margin: auto;
+}
