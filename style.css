@@ -60,3 +60,12 @@ footer #copy{
     font-weight: bold;
     padding: 10px;
 }
+
+.section-nav {
+    text-align: center;
+}
+main a{
+    padding: 20px;
+    text-decoration: none;
+    
+}
