@@ -43,11 +43,14 @@ h1 {
 text-align: center;
 }
 
-.left h3 {
-text-align: center;
+.center {
+    text-align: center;
 }
+
  .table {
     margin: auto;
+    border: 1px;
+    border-color: black;
  }
 
  .table img {
