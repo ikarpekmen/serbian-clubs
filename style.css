@@ -4,8 +4,8 @@
 }
 
 h1 {
-  text-align: center;
-  margin-bottom: 50px;
+    text-align: center;
+    margin-bottom: 50px;
 }
 
 .nav-container {
@@ -32,8 +32,7 @@ h1 {
     width: 950px;
     margin: 20px auto 0;
     background: lightgrey;
-    padding: 25px;
-    
+    padding: 25px;   
 }
 
 .container h3 {
@@ -41,17 +40,16 @@ h1 {
 }
 
 .center {
-text-align: center;
+    text-align: center;
 }
 
 table,th,td {
     margin: auto;
     border: 1px solid;
     border-collapse: collapse;
-
  }
 
- table img {
+table img {
     width: 30px;
     display: block;
     margin: auto;
